@@ -1,5 +1,5 @@
 **Report**
-- https://github.com/jessicaarrouasse/Object-Detection/blob/main/Report%20Chest%20X-ray%20Abnormalities%20Detection.pdf
+- https://github.com/arrouasserudy/chest-anomalies-detection/blob/main/Report%20Chest%20X-ray%20Abnormalities%20Detection.pdf
 
 **How to use this repo**
 
